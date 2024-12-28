@@ -1,6 +1,6 @@
-# mfe-starter-react
+# mfe-cart-react
 
-The is a react mfe starter app
+The is a react mfe cart app
 
 
 ## Installation
